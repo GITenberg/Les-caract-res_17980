@@ -1,0 +1,35 @@
+_repo: Les-caract-res_17980
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: La Bruyère, Jean de
+    aliases:
+    - De la Bruyère, Jean
+    - La Bruyere, Jean de
+    - Bruyère, Jean de la
+    birthdate: 1645
+    deathdate: 1696
+    gutenberg_agent_id: '7736'
+    url: http://www.gutenberg.org/2009/agents/7736
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Jean_de_La_Bruy%C3%A8re
+    - http://en.wikipedia.org/wiki/Jean_de_La_Bruy%C3%A8re
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2006-03-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17980'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Character sketches -- Early works to 1800'
+- !lcsh 'Characters and characteristics'
+title: Les caractères
+url: http://www.gutenberg.org/ebooks/17980
