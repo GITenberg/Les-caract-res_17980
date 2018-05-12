@@ -18,6 +18,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Jean_de_La_Bruy%C3%A8re
     - http://en.wikipedia.org/wiki/Jean_de_La_Bruy%C3%A8re
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17980#Les-caract-res
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2006-03-14'
 gutenberg_type: Text
